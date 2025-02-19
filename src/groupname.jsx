@@ -6,7 +6,6 @@ export default function GroupName(){
                 {names.map((name)=>(
                     <li key={name}>
                         {name}
-w
                     </li>
                 ))}
             </ul>
